@@ -4,6 +4,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         /*System.out.println("Hello World!");*/
-//      System.out.println("Hello World!");  //快捷键联系使用
+//      System.out.println("Hello World!");  //快捷键练习使用
     }
 }
